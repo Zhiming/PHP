@@ -1,0 +1,55 @@
+@CHARSET "UTF-8";
+#register {
+	width:auto;
+	height:600px;
+	border:2px solid #ccc;
+	font-size:15px;
+}
+#register h2 {
+	text-indent:0;
+	text-align:center;
+}
+#register dl {
+	width:550px;
+	margin:0 auto;
+}
+#register dl dt {
+	text-align:center;
+	padding:10px 0;
+	font-weight:bold;
+}
+#register dl dd {
+	padding:5px 0 0 0;
+}
+#register dl dd.profile {
+	padding:5px 0 5px 120px;
+}
+#register dl dd.profile img {
+	cursor:pointer;
+}
+#register dl dd input.text {
+	width:220px;
+	height:19px;
+	border:1px dashed #333;
+	background:#fff;
+}
+#register dl dd input.yzm {
+	width:60px;
+}
+#register dl dd input.submit {
+	width:60px;
+	height:19px;
+	border:1px dashed #333;
+	background:#fff;
+	cursor:pointer;
+	margin:0 0 0 160px;
+}
+#register dl dd.notif{
+	padding: 5px 0 5px 140px
+}
+
+#register dl dd img#RandCode{
+	position:relative;
+	top:7px;
+	cursor:pointer;
+}

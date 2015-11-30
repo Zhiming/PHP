@@ -1,0 +1,28 @@
+@CHARSET "UTF-8";
+body {
+	width:auto;
+}
+
+#profile h3 {
+	width:80%;
+	margin:30px auto;
+	height:30px;
+	line-height:30px;
+	text-align:center;
+	border:1px dashed #333;
+}
+
+#profile dl {
+	width:80%;
+	margin:0 auto;
+}
+
+#profile dl dd {
+	width:102px;
+	text-align:center;
+	float:left;
+}
+
+#profile dl dd img{
+	cursor:pointer;
+}
