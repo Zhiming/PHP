@@ -1,0 +1,5 @@
+Please access the db.php file first and enter the relative information.
+
+The index program begin from MyIndex.php, enter a URL, a word and the search mode. Notice the word is not case sensitive. As the language set and operating system version, there might be mojibake both in database and screen. 
+
+MyDatebase.sql is a final example, it could be imported into myphpadmin.
